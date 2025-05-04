@@ -78,10 +78,10 @@ To train and evaluate the PPO agent locally, follow these steps:
 6. **Evaluate/test the trained agent**
 
    ```bash
-   python testing.py --weights checkpoints/ppo_step_200.pt
+   python testing.py 
    ```
 
-   Replace `checkpoints/ppo_ipendulum_upd_complex_reward_centered_to_ball_200.pt` with the desired checkpoint file (e.g., the model saved at step 200).
+   Replace `path=checkpoints/ppo_ipendulum_upd_complex_reward_centered_to_ball_200.pt` with the desired checkpoint file (e.g., the model saved at step 200).
 
 ## References
 
