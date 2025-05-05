@@ -31,7 +31,7 @@ The underlying `tolerance` function returns 1.0 when the variable is within a gi
 
 A demonstration of the trained PPO agent is provided in `demo_video.mp4`, showcasing the full swing-up, stabilization at the upright position, and smooth interception of the moving red ball. 
 
-[![Watch the demo](https://raw.githubusercontent.com/andreascoclet/inv-pendulum-ppo/main/thumbnail.jpg)](https://raw.githubusercontent.com/andreascoclet/inv-pendulum-ppo/main/demo_video.mp4)
+https://github.com/user-attachments/assets/976239bd-6f69-44bf-8322-e09c06546e8c
 
 Below is the reward evaluation plot over the course of training:
 
